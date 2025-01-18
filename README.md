@@ -1,4 +1,4 @@
-<h3 align="center">A passionate reverser/developer developer from Monaco 🇲🇨</h3>
+<h3 align="center">A passionate reverser & developer from Monaco 🇲🇨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karatelsh&label=Profile%20views&color=0e75b6&style=flat" alt="karatelsh" /> </p>
 
