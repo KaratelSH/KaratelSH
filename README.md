@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karatelsh&label=Profile%20views&color=0e75b6&style=flat" alt="karatelsh" /> </p>
 
-<h3 align="left">Connect with me: (i love telegram)</h3>
+<h3 align="left">Connect with me: (i love tg)</h3>
 <p align="left">
 <a href="https://twitter.com/karatel_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karatel_sh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maxence-bednarek-89a6462b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxence-bednarek-89a6462b1" height="30" width="40" /></a>
